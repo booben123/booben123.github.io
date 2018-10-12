@@ -84,7 +84,7 @@ html {
   left: 0;
   min-height: 720px;
   zoom: 1;
-  background: url(/img_project2/Без-имени-1.jpg);
+  background: url(img_project2/Без-имени-1.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -197,7 +197,7 @@ html {
   display: inline-block;
   color: white;
   z-index: 40;
-  width: 45%;
+  width: 53%;
 }
 
 .top_block .top_block_right .menu_top {
@@ -568,7 +568,7 @@ html {
 }
 
 .block_wrapper_fourth .img_back {
-  background: url("/img_project2/5.jpg");
+  background: url("img_project2/5.jpg");
   position: relative;
   top: 0;
   width: 100%;
@@ -589,7 +589,7 @@ html {
 }
 
 .block_wrapper_fourth .img_back .img_back_1 {
-  background: url("/img_project2/ipad.png");
+  background: url("img_project2/ipad.png");
   position: absolute;
   width: 477px;
   height: 528px;
@@ -599,7 +599,7 @@ html {
 }
 
 .block_wrapper_fourth .img_back .img_back_2 {
-  background: url("/img_project2/phone.png");
+  background: url("img_project2/phone.png");
   position: absolute;
   width: 274px;
   height: 465px;
@@ -670,7 +670,7 @@ html {
 }
 
 .partition_1 .img_3 {
-  background: url("/img_project2/mes.png") no-repeat;
+  background: url("img_project2/mes.png") no-repeat;
   width: 63px;
   height: 61px;
   outline: 5px solid #95e1d3;
@@ -857,7 +857,7 @@ html {
 }
 
 .block_Wrapper_6 .img_block .img_10 {
-  background: url("/img_project2/Layer_16.jpg");
+  background: url("img_project2/Layer_16.jpg");
   width: 380px;
   height: 470px;
   display: -webkit-inline-box;
@@ -909,7 +909,7 @@ html {
 }
 
 .block_Wrapper_6 .img_block .img_11 {
-  background: url("/img_project2/Layer_19.png");
+  background: url("img_project2/Layer_19.png");
   width: 380px;
   height: 470px;
   display: -webkit-inline-box;
@@ -940,7 +940,7 @@ html {
 }
 
 .block_Wrapper_6 .img_block .img_12 {
-  background: url("/img_project2/Layer_18.jpg");
+  background: url("img_project2/Layer_18.jpg");
   width: 380px;
   height: 470px;
   display: -webkit-inline-box;
@@ -997,7 +997,7 @@ html {
 
 .main_part_vspliv .wrapper_img_1 .img__1 {
   display: inline-block;
-  background: url("/img_project2/twitter.png") no-repeat;
+  background: url("img_project2/twitter.png") no-repeat;
   width: 26px;
   height: 26px;
   display: inline-block;
@@ -1023,7 +1023,7 @@ html {
 
 .main_part_vspliv .wrapper_img_2 .img__2 {
   display: inline-block;
-  background: url("/img_project2/instagram.png") no-repeat;
+  background: url("img_project2/instagram.png") no-repeat;
   width: 26px;
   height: 26px;
 }
@@ -1048,7 +1048,7 @@ html {
 
 .main_part_vspliv .wrapper_img_3 .img__3 {
   display: inline-block;
-  background: url("/img_project2/pinterest.png") no-repeat;
+  background: url("img_project2/pinterest.png") no-repeat;
   width: 26px;
   height: 26px;
 }
@@ -1074,7 +1074,7 @@ html {
 .main_part_vspliv .wrapper_img_4 .img__4 {
   display: inline-block;
   float: right;
-  background: url("/img_project2/facebook.png") no-repeat;
+  background: url("img_project2/facebook.png") no-repeat;
   width: 26px;
   height: 26px;
   z-index: 50;

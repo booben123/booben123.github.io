@@ -1,0 +1,52 @@
+.accordion,
+.accordion * {
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+
+
+.icon-youtube{
+transition: all .8s ease;
+}
+
+.icon-youtube:hover {
+ fill:red;
+}
+
+/*----- Section Titles -----*/
+.accordion-section-title {
+	width:100%;
+	padding:13px;
+	display:inline-block;
+border: 1px solid #ebebeb;	background-color: #ffffff;
+	transition:all linear 0.15s;
+	border-radius: 10px;
+	/* Type */
+	font-size:1.200em;text-decoration: none;
+	color:black;
+}
+.accordion-section-title a{
+ 
+}
+.accordion-section{
+	margin: 10px;width: 32.3%;
+}
+.accordion-section-title.active,
+.accordion-section-title:hover {
+	background:#cccccc;
+	/* Type */color: #42b8dd;
+	text-decoration:none;
+}
+
+.accordion-section:last-child .accordion-section-title {
+	border-bottom:none;
+}
+
+/*----- Section Content -----*/
+.accordion-section-content {
+	padding-left: 13px;
+	padding-right: 20px;
+	display:none;
+}
